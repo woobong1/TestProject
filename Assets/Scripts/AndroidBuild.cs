@@ -4,7 +4,7 @@ using System.IO;
 
 public class AndroidBuild
 {
-    private static readonly string defaultPath = "C:\\Users\\User\\Desktop\\Build\\TestProject\\My project369";
+    private static readonly string defaultPath = "C:/MetaTrendTeam/Android";
     private static string folder_date = "";
     private static string folder_time = "";
 
